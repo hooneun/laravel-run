@@ -58,7 +58,6 @@
   ```php
   // app/Services/AvatarService.php
   - 이미지 리사이징 (150x150 썸네일)
-  - 파일명 해시화
   - 기존 아바타 삭제
   ```
 
